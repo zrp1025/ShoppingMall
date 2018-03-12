@@ -1,0 +1,24 @@
+{
+	"status":"0",
+	"msg":"",
+	"result":[
+		{
+			"productId":"10001",
+			"productName":"音响",
+			"productPrice":2399,
+			"productImg":"1.jpg"
+		},
+		{
+			"productId":"10002",
+			"productName":"蓝牙耳机",
+			"productPrice":1999,
+			"productImg":"2.jpg"
+		},
+		{
+			"productId":"10003",
+			"productName":"耳机",
+			"productPrice":129,
+			"productImg":"3.jpg"
+		}
+	]
+}
